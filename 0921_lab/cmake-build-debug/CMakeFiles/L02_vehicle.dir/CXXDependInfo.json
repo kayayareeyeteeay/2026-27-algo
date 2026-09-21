@@ -1,0 +1,35 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"database-info" : null,
+	"dir-cur-bld" : "C:/Users/karar1/CLionProjects/untitled/cmake-build-debug",
+	"dir-cur-src" : "C:/Users/karar1/CLionProjects/untitled",
+	"dir-top-bld" : "C:/Users/karar1/CLionProjects/untitled/cmake-build-debug",
+	"dir-top-src" : "C:/Users/karar1/CLionProjects/untitled",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : 
+	[
+		"C:\\Users\\karar1\\CLionProjects\\untitled\\.."
+	],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/karar1/CLionProjects/untitled/cmake-build-debug/CMakeFiles/L02_vehicle.dir",
+	"sources" : 
+	{
+		"CMakeFiles/L02_vehicle.dir/Vehicle/main.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/karar1/CLionProjects/untitled/Vehicle/main.cpp"
+		},
+		"CMakeFiles/L02_vehicle.dir/main.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/karar1/CLionProjects/untitled/main.cpp"
+		}
+	}
+}

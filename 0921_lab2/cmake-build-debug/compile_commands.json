@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/karar1/CLionProjects/0921_lab2/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\C__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -fmodules-ts -fmodule-mapper=CMakeFiles\\0921_lab2.dir\\FixedIntStackMain.cpp.obj.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles\\0921_lab2.dir\\FixedIntStackMain.cpp.obj -c C:\\Users\\karar1\\CLionProjects\\0921_lab2\\FixedIntStackMain.cpp",
+  "file": "C:/Users/karar1/CLionProjects/0921_lab2/FixedIntStackMain.cpp",
+  "output": "C:/Users/karar1/CLionProjects/0921_lab2/cmake-build-debug/CMakeFiles/0921_lab2.dir/FixedIntStackMain.cpp.obj"
+}
+]
