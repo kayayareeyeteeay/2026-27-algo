@@ -1,0 +1,3 @@
+C:/Users/karar1/CLionProjects/0928_queue/cmake-build-debug/CMakeFiles/0928_queue.dir
+C:/Users/karar1/CLionProjects/0928_queue/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/karar1/CLionProjects/0928_queue/cmake-build-debug/CMakeFiles/rebuild_cache.dir
