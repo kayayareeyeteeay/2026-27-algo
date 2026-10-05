@@ -1,0 +1,4 @@
+C:/Users/karar1/Downloads/skeletons-main/skeletons-main/L05/cmake-build-debug/CMakeFiles/L05_BinaryTree.dir
+C:/Users/karar1/Downloads/skeletons-main/skeletons-main/L05/cmake-build-debug/CMakeFiles/L05_Heap.dir
+C:/Users/karar1/Downloads/skeletons-main/skeletons-main/L05/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/karar1/Downloads/skeletons-main/skeletons-main/L05/cmake-build-debug/CMakeFiles/rebuild_cache.dir

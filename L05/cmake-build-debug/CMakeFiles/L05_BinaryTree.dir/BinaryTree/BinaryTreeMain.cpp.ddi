@@ -1,0 +1,11 @@
+{
+"rules": [
+{
+"primary-output": "CMakeFiles/L05_BinaryTree.dir/BinaryTree/BinaryTreeMain.cpp.o",
+"requires": [
+]
+}
+],
+"version": 0,
+"revision": 0
+}

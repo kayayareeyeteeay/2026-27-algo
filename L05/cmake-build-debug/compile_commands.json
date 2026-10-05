@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/karar1/Downloads/skeletons-main/skeletons-main/L05/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\C__~1.EXE -IC:/Users/karar1/Downloads/skeletons-main/skeletons-main/L05/.. -IC:/Users/karar1/Downloads/skeletons-main/skeletons-main/L05/.  -Wall -Wextra -Werror -pedantic -g -std=gnu++23 -fdiagnostics-color=always -fmodules-ts -fmodule-mapper=CMakeFiles\\L05_BinaryTree.dir\\BinaryTree\\BinaryTreeMain.cpp.obj.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles\\L05_BinaryTree.dir\\BinaryTree\\BinaryTreeMain.cpp.obj -c C:\\Users\\karar1\\Downloads\\skeletons-main\\skeletons-main\\L05\\BinaryTree\\BinaryTreeMain.cpp",
+  "file": "C:/Users/karar1/Downloads/skeletons-main/skeletons-main/L05/BinaryTree/BinaryTreeMain.cpp",
+  "output": "C:/Users/karar1/Downloads/skeletons-main/skeletons-main/L05/cmake-build-debug/CMakeFiles/L05_BinaryTree.dir/BinaryTree/BinaryTreeMain.cpp.obj"
+},
+{
+  "directory": "C:/Users/karar1/Downloads/skeletons-main/skeletons-main/L05/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\C__~1.EXE -IC:/Users/karar1/Downloads/skeletons-main/skeletons-main/L05/.. -IC:/Users/karar1/Downloads/skeletons-main/skeletons-main/L05/.  -Wall -Wextra -Werror -pedantic -g -std=gnu++23 -fdiagnostics-color=always -fmodules-ts -fmodule-mapper=CMakeFiles\\L05_Heap.dir\\heap\\HeapMain.cpp.obj.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles\\L05_Heap.dir\\heap\\HeapMain.cpp.obj -c C:\\Users\\karar1\\Downloads\\skeletons-main\\skeletons-main\\L05\\heap\\HeapMain.cpp",
+  "file": "C:/Users/karar1/Downloads/skeletons-main/skeletons-main/L05/heap/HeapMain.cpp",
+  "output": "C:/Users/karar1/Downloads/skeletons-main/skeletons-main/L05/cmake-build-debug/CMakeFiles/L05_Heap.dir/heap/HeapMain.cpp.obj"
+}
+]

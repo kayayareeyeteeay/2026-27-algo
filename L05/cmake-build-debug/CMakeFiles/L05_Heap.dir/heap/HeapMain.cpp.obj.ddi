@@ -1,0 +1,11 @@
+{
+"rules": [
+{
+"primary-output": "CMakeFiles\\L05_Heap.dir\\heap\\HeapMain.cpp.obj",
+"requires": [
+]
+}
+],
+"version": 0,
+"revision": 0
+}
